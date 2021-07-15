@@ -1,0 +1,28 @@
+/* body{
+    background-color: red;
+} */
+
+#navbar{
+    flex-direction: column;
+}
+
+#home{
+ height: 370px;
+ /* flex-direction: column; */
+
+}
+#home::before{
+    height: ;
+}
+#services{
+flex-direction: column;
+
+}
+
+#services.box{
+  
+}
+
+#clients{
+    overflow: hidden;
+}
